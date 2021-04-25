@@ -11,4 +11,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lokilife&show_icons=true" alt="Maxim"/></p>
 
 <h3 align="center"> Communication</h3>
-<a href="mailto:maxim@lokilife.fun"><img align="center" src="https://raw.githubusercontent.com/Lokilife/Lokilife/main/icons/mail.png" height="64" width="64" alt="Mail" /></a>
+
+<p align="center">
+<a href="mailto:maxim@lokilife.fun"><img src="https://raw.githubusercontent.com/Lokilife/Lokilife/main/icons/mail.png" height="64" width="64" alt="Mail" /></a>
+</p>
