@@ -8,7 +8,7 @@
 
 <h3 align="center"> Statistics</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Lokilife&style=flat-square&color=red" alt="Lokilife"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lokilife&show_icons=true" alt="Maxim"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lokilife&show_icons=true&theme=dracula" alt="Maxim"/></p>
 
 <h3 align="center"> Communication</h3>
 
