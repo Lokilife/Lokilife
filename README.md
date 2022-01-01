@@ -4,7 +4,7 @@
 <h3 align="center"> About me</h3>
 
 - **😀 Name:** `Maxim`.
-- **💬 About:** `I am a web developer and position myself as a junior Full Stack. I am currently studying JavaScript and AngularJS. I have seven months of experience developing on JavaScript. I can work with FLG (Figma layout) and PSD (Photoshop document) layouts. I also know how to work in GNU / Linux and configure various servers (For example: LAMP (Linux Apache MySQL PHP), as well as Minecraft and Terraria gaming servers).`
+- **💬 About:** `I am a web developer and position myself as a junior Full Stack. I am currently studying JavaScript/TypeScript, Vue and Nuxt. I have a year and a half of experience developing on JavaScript and also have half of year of experience on React.`
 
 <h3 align="center"> Statistics</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Lokilife&style=flat-square&color=red" alt="Lokilife"/></p>
