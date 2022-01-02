@@ -4,7 +4,7 @@
 <h3 align="center"> About me</h3>
 
 - **😀 Name:** `Maxim`.
-- **🙂 About:** `I am a web developer and position myself as a Junior Full Stack. I am currently studying JavaScript/TypeScript, Vue and Nuxt and also Nust. I have a year and a half of experience developing on JavaScript and also have half of year of experience on React.`
+- **🙍 About:** `I am a web developer and position myself as a Junior Full Stack. I am currently studying JavaScript/TypeScript, Vue and Nuxt and also Nust. I have a year and a half of experience developing on JavaScript and also have half of year of experience on React.`
 - **⛏️ Current Stack:** `NodeJS, TypeScript, React, Vue, Nuxt, Express, Nust, MongoDB, TypeORM, ws (WebSockets), Git and Github.` And this isn't a end.
 - **💬 Languages:** `Russian (native), English (beginning beginner).`
 
