@@ -4,8 +4,8 @@
 <h3 align="center"> About me</h3>
 
 - **😀 Name:** `Maxim`.
-- **🙍 About:** `I am a web developer and position myself as a Junior Full Stack. I am currently studying JavaScript/TypeScript, React and Next and also Nest. I have a two years of experience developing on JavaScript and also have half of year of experience on React.`
-- **⛏️ Current Stack:** `NodeJS, TypeScript, React, Next, Vue, Nuxt, Express, Nest, MongoDB, TypeORM, ws (WebSocket lib), Git and Github.` And this isn't a end.
+- **🙍 About:** `I am a web developer and position myself as a Full Stack JavaScript. I am currently studying JavaScript/TypeScript, React and Next and also Nest. I have a two years of experience developing on JavaScript and also have year of experience with React.`
+- **⛏️ Current Stack:** `NodeJS, TypeScript, React, Next, Vue, Nuxt, Express, Nest, GraphQL, MongoDB, PostgreSQL, Prisma, ws (WebSocket lib), Git and Github.` And this isn't a end.
 - **💬 Languages:** `Russian (C2), English (B1), Norwegian (A1).`
 
 <h3 align="center"> Statistics</h3>
