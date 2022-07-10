@@ -6,7 +6,7 @@
 - **😀 Name:** `Maxim`.
 - **🙍 About:** `I am a web developer and position myself as a Full Stack JavaScript. I am currently studying JavaScript/TypeScript, React and Next and also Nest. I have a two years of experience developing on JavaScript and also have year of experience with React.`
 - **⛏️ Current Stack:** `NodeJS, TypeScript, React, Next, Vue, Nuxt, Express, Nest, GraphQL, MongoDB, PostgreSQL, Prisma, ws (WebSocket lib), Git and Github.` And this isn't a end.
-- **💬 Languages:** `Russian (Native), English (B1), Norwegian (A1).`
+- **💬 Languages:** `Russian (Native), English (B1).`
 - **📙 My knowledge library:** [Loki's Library - Notion](https://lokilife.notion.site/322d71bd873a4e00be1a4fd4b56424b1?v=1dfee9c348f24592810e1571ccf6c853)
 
 <h3 align="center"> Statistics</h3>
