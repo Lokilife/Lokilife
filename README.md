@@ -4,8 +4,11 @@
 <h3 align="center"> About me</h3>
 
 - **😀 Name:** `Maxim`.
-- **🙍 About:** `I am a web developer and position myself as a Full Stack JavaScript. I am currently studying JavaScript/TypeScript, React and Next and also Nest. I have a two years of experience developing on JavaScript and also have year of experience with React.`
-- **⛏️ Current Stack:** `NodeJS, TypeScript, React, Next, Vue, Nuxt, Express, Nest, GraphQL, MongoDB, PostgreSQL, Prisma, ws (WebSocket lib), Git and Github.` And this isn't a end.
+- **🙍 About:** `I am a web developer and position myself as a Full Stack JavaScript.`
+- **⛏️ Current Stack:**
+ - `🟣 Full-stack` `🔵 TypeScript` `🔵 C++`
+ - `🔵 ReactJS` `🟢 VueJS` `🟣 Vite`
+ - `🔴 NestJS` `🟢 Oat++` `🔵 Docker`
 - **💬 Languages:** `Russian (Native), English (B1).`
 
 <h3 align="center"> Statistics</h3>
