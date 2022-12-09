@@ -6,9 +6,9 @@
 - **😀 Name:** `Maxim`.
 - **🙍 About:** `I am a web developer and position myself as a Full Stack JavaScript.`
 - **⛏️ Current Stack:**
- - `🟣 Full-stack` `🔵 TypeScript` `🔵 C++`
- - `🔵 ReactJS` `🟢 VueJS` `🟣 Vite`
- - `🔴 NestJS` `🟢 Oat++` `🔵 Docker`
+  - `🟣 Full-stack` `🔵 TypeScript` `🔵 C++`
+  - `🔵 ReactJS` `🟢 VueJS` `🟣 Vite` 
+  - `🔴 NestJS` `🟢 Oat++` `🔵 Docker`
 - **💬 Languages:** `Russian (Native), English (B1).`
 
 <h3 align="center"> Statistics</h3>
