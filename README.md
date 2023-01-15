@@ -7,8 +7,8 @@
 - **🙍 About:** `I am a web developer and position myself as a Full Stack JavaScript.`
 - **⛏️ Current Stack:**
   - `🟣 Full-stack` `🔵 TypeScript` `🔵 C++`
-  - `🔵 ReactJS` `🟢 VueJS` `🟣 Vite` 
-  - `🔴 NestJS` `🟢 Oat++` `🔵 Docker`
+  - `🔵 ReactJS` `🟣 Vite` 
+  - `🔴 NestJS` `🔵 Docker`
 - **💬 Languages:** `Russian (Native), English (B1).`
 
 <h3 align="center"> Statistics</h3>
