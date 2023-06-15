@@ -3,8 +3,8 @@
 
 <h3 align="center"> About me</h3>
 
-- **😀 Name:** `Maxim`.
-- **🙍 About:** `I am a web developer and position myself as a Full Stack JavaScript.`
+- **😀 Name:** `Bychkov Maxim`.
+- **🙍 About:** `I am a web developer and position myself as a strong junior JavaScript developer but also I can do a lot of things using Rust.`
 - **⛏️ Current Stack:**
   - `🟣 FullStack` `🟠 Rust` `🔵 TypeScript`
   - `🔴 NestJS` `🟠 SvelteKit` `🔵 Electron`
