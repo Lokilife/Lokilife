@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Maxim :wave:</h2>
-<h3 align="center"> Fullstack Developer</h3>
+<h3 align="center"> Backend Developer</h3>
 
 <h3 align="center"> About me</h3>
 
