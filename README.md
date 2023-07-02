@@ -4,11 +4,10 @@
 <h3 align="center"> About me</h3>
 
 - **😀 Name:** `Bychkov Maxim`.
-- **🙍 About:** `I am a web developer and position myself as a strong junior JavaScript developer but also I can do a lot of things using Rust.`
+- **🙍 About:** `I am a web developer and position myself as a strong junior JavaScript developer.`
 - **⛏️ Current Stack:**
-  - `🟣 FullStack` `🟠 Rust` `🔵 TypeScript`
-  - `🔴 NestJS` `🟠 SvelteKit` `🔵 Electron`
-  - `🔴 Rocket` `🟡 Tauri`
+  - `🔴 Backend` `🔵 TypeScript`
+  - `🔴 NestJS` `🟣 Prisma` `🔵 PostgreSQL`
 - **💬 Languages:** `Russian (Native), English (B1).`
 
 <h3 align="center"> Statistics</h3>
