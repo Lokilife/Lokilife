@@ -4,10 +4,10 @@
 <h3 align="center"> About me</h3>
 
 - **😀 Name:** `Bychkov Maxim`.
-- **🙍 About:** `I am a web developer and position myself as a strong junior JavaScript developer.`
+- **🙍 About:** `I am a web developer and position myself as a strong junior JavaScript developer. Currently making my own build of Space Station 14 and learning ASP.NET development with .NET EF.`
 - **⛏️ Current Stack:**
   - `🔴 Backend` `🔵 TypeScript`
-  - `🔴 NestJS` `🟣 Prisma` `🔵 PostgreSQL`
+  - `🔴 NestJS` `🔵 TypeORM` `🔵 PostgreSQL`
 - **💬 Languages:** `Russian (Native), English (B1).`
 
 <h3 align="center"> Statistics</h3>
