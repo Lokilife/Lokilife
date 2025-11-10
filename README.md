@@ -1,9 +1,21 @@
-# Hello!
-My name is Bychkov Maxim Alexandrovych, I'm Backend developer on TypeScript looking for a job.<br>
-I'm currently focused in C# development including ASP.NET but my main activity focused on GameDev.
+# Hi, I'm Maxim
+
+Backend Developer (TypeScript / Node.js)
+
+Looking for a job
 
 Languages knowledge: Russian (Native), English (B1);<br>
 Time-Zone: Europe/Moscow, UTC+3 (GMT+0300, MSK);
+
+# Backend · Node.JS · С#
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,nestjs,postgres,docker,githubactions,git)](https://skillicons.dev)
+
+I had commerce experience like for around 1 year working as FullStack TypeScript Developer and Backend TypeScript Developer, right now I mostly want to work on REST services. 
+
+| Frameworks/Languages | Principles | Technologies |
+|-|-|-|
+| - Node.JS;<br> - TypeScript;<br>- Nest.JS;<br>- SQL;<br>- TypeORM;<br> | - SOLID;<br>- Clean Architecture;<br>- Data-Driven-Design;<br>- MVC;<br>- REST API; | - PostgreSQL;<br>- Docker;<br>- Github CI/CD;<br> | 
 
 # Non-Commercial Experience
 
